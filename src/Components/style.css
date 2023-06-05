@@ -1,0 +1,19 @@
+.container-Draw{
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+.child-container{
+    width: 400px;
+    height: 400px;
+    margin-bottom: 80px;
+}
+.exit{
+    text-decoration: none;
+    padding: 10px 25px;
+    border-radius: 5px;
+    background: dodgerblue;
+    color: white;
+}
